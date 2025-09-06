@@ -6,7 +6,7 @@
 
     ```bash
     git clone https://github.com/ridwansukma/testing-logic-maxsubarray-nested-sortdata.git
-    cd test-algorithms
+    cd testing-logic-maxsubarray-nested-sortdata
     ```
 2. Install Dependencies
     ```bash
