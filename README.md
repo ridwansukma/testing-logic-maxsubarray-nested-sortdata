@@ -70,5 +70,5 @@ npm test
         d: 1,
         e: { e: { e: 4 }, ee: "car" }
     }
-    - Output: `12`
+    - Output: 12
     ```
